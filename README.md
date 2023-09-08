@@ -3,8 +3,8 @@
 Mine IEEE OUI dataset for MAC prefixes for a given vendor
 
 **Example:**
-python3 oui-miner.py huawei
-python3 oui-miner.py huawei -o huawei.csv -v
+- python3 oui-miner.py huawei
+- python3 oui-miner.py huawei -o huawei.csv -v
 
 
 
